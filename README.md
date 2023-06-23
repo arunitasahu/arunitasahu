@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey there 🍕, I'm Arunita Sahu</h1>
 <h3 align="center">A passionate developer from India🪷</h3>
-<img src="[https://64.media.tumblr.com/e08b857b528b7615eebe7a8e8f98311c/tumblr_mnwh9iiuDl1qc4uvwo1_400.gifv]" alt="coding" width="400" align="right">
+<img src="https://64.media.tumblr.com/e08b857b528b7615eebe7a8e8f98311c/tumblr_mnwh9iiuDl1qc4uvwo1_400.gifv" alt="coding" width="400" align="right">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunitasahu&label=Profile%20views&color=0e75b6&style=flat" alt="arunitasahu" /> </p>
