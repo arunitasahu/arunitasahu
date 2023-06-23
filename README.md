@@ -1,8 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/475eb095746151.5e9ecde695f7a.gif)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey there 🍕, I'm Arunita Sahu&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+<h3 align="center">Hey there 🍕, I'm Arunita Sahu</h3>
 <h3 align="center">A passionate developer from India🪷</h3>
 <img src="https://www.domainnamesanity.com/blog/wp-content/uploads/2020/12/home-office-basics.jpg" alt="coding" width="400" align="right">
 
