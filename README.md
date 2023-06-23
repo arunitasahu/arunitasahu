@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/475eb095746151.5e9ecde695f7a.gif)
 
-<h3 align="center">Hey there 🍕, I'm Arunita Sahu</h3>
+<h1 align="center">Hey there 🍕, I'm Arunita Sahu</h1>
 <h3 align="center">A passionate developer from India🪷</h3>
 <img src="https://www.domainnamesanity.com/blog/wp-content/uploads/2020/12/home-office-basics.jpg" alt="coding" width="400" align="right">
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/arunita-sahu" target="blank"><img src="https://img.shields.io/twitter/follow/arunita-sahu?logo=twitter&style=for-the-badge" alt="arunita-sahu" /></a> </p>
 
-- 🌱 I’m currently learning **ML ,DSA**
+- 🌱 I’m currently learning **DSA**
 
 -🔭 I’m currently working as an **android developer intern**
 
