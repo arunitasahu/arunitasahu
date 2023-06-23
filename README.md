@@ -1,7 +1,8 @@
-![MasterHead](https://image.freepik.com/free-vector/cute-girl-work-from-home-cartoon_70350-481.jpg)
-<h2 align="center">Hey there 🍕, I'm Arunita Sahu</h2><img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*Erk4NawQOHkf4wSN7JmB_A.jpeg" alt="coding" width="60" align="left">
+![MasterHead](https://64.media.tumblr.com/e08b857b528b7615eebe7a8e8f98311c/tumblr_mnwh9iiuDl1qc4uvwo1_400.gifv)
+
+<h2 align="center">      Hey there 🍕, I'm Arunita Sahu</h2><img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*Erk4NawQOHkf4wSN7JmB_A.jpeg" alt="coding" width="60" align="left">
 <h3 align="center">A passionate developer from India🌼</h3>
-<img src="https://64.media.tumblr.com/e08b857b528b7615eebe7a8e8f98311c/tumblr_mnwh9iiuDl1qc4uvwo1_400.gifv" alt="coding" width="400" align="right">
+<img src="https://image.freepik.com/free-vector/cute-girl-work-from-home-cartoon_70350-481.jpg" alt="coding" width="400" align="right">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunitasahu&label=Profile%20views&color=0e75b6&style=flat" alt="arunitasahu" /> </p>
