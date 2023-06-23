@@ -1,4 +1,4 @@
-![MasterHead](https://64.media.tumblr.com/e08b857b528b7615eebe7a8e8f98311c/tumblr_mnwh9iiuDl1qc4uvwo1_400.gifv)
+![MasterHead](https://media.tenor.com/images/190fc50c60b39e297405609ad5fa9168/tenor.gif)
 
 <h2 align="center">      Hey there 🍕, I'm Arunita Sahu</h2><img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*Erk4NawQOHkf4wSN7JmB_A.jpeg" alt="coding" width="60" align="left">
 <h3 align="center">A passionate developer from India🌼</h3>
