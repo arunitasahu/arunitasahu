@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
--🔭 I’m currently working as an **android developer intern**
+- 🔭 I’m currently working as an **android developer intern**
 
 - 💬 Ask me about **Flutter**
 
