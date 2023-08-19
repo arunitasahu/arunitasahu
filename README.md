@@ -1,5 +1,5 @@
 <h2 align="center">      Hey there 🌼, I'm Arunita Sahu</h2><img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*Erk4NawQOHkf4wSN7JmB_A.jpeg" alt="coding" width="60" align="left">
-<img src="https://media.tenor.com/5iiD6jOOCuAAAAAC/quby-high-five.gif" alt="coding" width="400" align="right">
+<img src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" alt="coding" width="400" align="right">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunitasahu&label=Profile%20views&color=0e75b6&style=flat" alt="arunitasahu" /> </p>
@@ -22,8 +22,16 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.bkbn2-K7c9rMBV5dvYXDrQHaIh?pid=ImgDet&rs=1" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://codeprogramming.org/wp-content/uploads/2022/01/C-Logo.wine_.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.FN170sbF2Xwk3JZ5OEPxAwHaHs?pid=ImgDet&rs=1" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn.windowsreport.com/wp-content/uploads/2019/02/virtual-java11.jpg" alt="java" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunitasahu&show_icons=true&locale=en&layout=compact" alt="arunitasahu" /></p>
+![](https://github-readme-stats.vercel.app/api?username=arunitasahu&theme=prussian&hide_border=false&include_all_commits=true&count_private=false)   ![](https://github-readme-streak-stats.herokuapp.com/?user=arunitasahu&theme=prussian&hide_border=false)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunitasahu&show_icons=true&locale=en" alt="arunitasahu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunitasahu&" alt="arunitasahu" /></p>
+#  📈 Contribution Graph 
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arunitasahu&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+   <tr>
+     <!--hvvm-->
+  </tr>
+</table> 
+
