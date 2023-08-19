@@ -1,8 +1,5 @@
-![MasterHead](https://media.tenor.com/images/190fc50c60b39e297405609ad5fa9168/tenor.gif)
-
-<h2 align="center">      Hey there 🍕, I'm Arunita Sahu</h2><img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*Erk4NawQOHkf4wSN7JmB_A.jpeg" alt="coding" width="60" align="left">
-<h3 align="center">A passionate developer from India🌼</h3>
-<img src="https://image.freepik.com/free-vector/cute-girl-work-from-home-cartoon_70350-481.jpg" alt="coding" width="400" align="right">
+<h2 align="center">      Hey there 🌼, I'm Arunita Sahu</h2><img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*Erk4NawQOHkf4wSN7JmB_A.jpeg" alt="coding" width="60" align="left">
+<img src="https://media.tenor.com/5iiD6jOOCuAAAAAC/quby-high-five.gif" alt="coding" width="400" align="right">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunitasahu&label=Profile%20views&color=0e75b6&style=flat" alt="arunitasahu" /> </p>
