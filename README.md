@@ -6,9 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/arunita-sahu" target="blank"><img src="https://img.shields.io/twitter/follow/arunita-sahu?logo=twitter&style=for-the-badge" alt="arunita-sahu" /></a> </p>
 
-- 🌱 I’m currently learning **DSA**
-- 🔭 I’m currently working as an **android developer intern**
-- 💬 Ask me about **Flutter**
 - 📫 How to reach me **arunitasahu2311@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
